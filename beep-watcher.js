@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+'use strict';
 
 // Plays a beep when a file changes in the current directory
 require("fs").watch('.', (event, file) => {
