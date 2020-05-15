@@ -7,5 +7,5 @@
     "beep-watcher": "./beep-watcher.js"
   },  
   "author": "Amine Rehioui",
-  "license": "ISC"
+  "license": "MIT"
 }
