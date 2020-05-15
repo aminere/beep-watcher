@@ -1,0 +1,11 @@
+{
+  "name": "beep-watcher",
+  "version": "1.0.0",
+  "description": "Plays a beep when a file changes in the current directory",
+  "repository": "aminere/beep-watcher",
+  "bin": {
+    "beep-watcher": "./beep-watcher.js"
+  },  
+  "author": "Amine Rehioui",
+  "license": "ISC"
+}
