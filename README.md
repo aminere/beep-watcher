@@ -5,4 +5,4 @@ Plays a beep when a file changes in the current directory
 [Node.js](https://nodejs.org/en/)
 
 ## Usage
-`npx aminere/beep-watcher`
+`npx beep-watcher`
